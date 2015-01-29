@@ -1,0 +1,160 @@
+format version: 1
+products:
+27 items
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$$anonfun$1.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$$anonfun$3.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Calculate$.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$ClientActor$$anonfun$receive$1.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$ClientActor.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$DosMessage.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Listener$$anonfun$receive$3$$anonfun$2.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Listener$$anonfun$receive$3.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Listener.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Message$.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Message.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Result$.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Result.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$ResultDisplay$.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$ResultDisplay.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$ServerActor$$anonfun$receive$2.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$ServerActor.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Work$.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Work.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Worker$$anonfun$calculateBitCoinFor$1.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Worker$$anonfun$calculateBitCoinFor$2$$anonfun$4.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Worker$$anonfun$calculateBitCoinFor$2$$anonfun$apply$mcVI$sp$1.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Worker$$anonfun$calculateBitCoinFor$2.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Worker$$anonfun$receive$4.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Worker.class
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1.class
+binary dependencies:
+3 items
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Program Files\Java\jdk1.8.0_20\jre\lib\rt.jar
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> C:\Users\User\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+source dependencies:
+0 items
+external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+class names:
+27 items
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$$anonfun$1
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$$anonfun$3
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Calculate$
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$ClientActor
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$ClientActor$$anonfun$receive$1
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$DosMessage
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Listener
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Listener$$anonfun$receive$3
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Listener$$anonfun$receive$3$$anonfun$2
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Message
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Message$
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Result
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Result$
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$ResultDisplay
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$ResultDisplay$
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$ServerActor
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$ServerActor$$anonfun$receive$2
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Work
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Work$
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Worker
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Worker$$anonfun$calculateBitCoinFor$1
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Worker$$anonfun$calculateBitCoinFor$2
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Worker$$anonfun$calculateBitCoinFor$2$$anonfun$4
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Worker$$anonfun$calculateBitCoinFor$2$$anonfun$apply$mcVI$sp$1
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> local.project1$Worker$$anonfun$receive$4
+product stamps:
+27 items
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$$anonfun$1.class -> lastModified(1411113425335)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$$anonfun$3.class -> lastModified(1411113425403)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$.class -> lastModified(1411113425258)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Calculate$.class -> lastModified(1411113425501)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$ClientActor$$anonfun$receive$1.class -> lastModified(1411113425788)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$ClientActor.class -> lastModified(1411113425674)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$DosMessage.class -> lastModified(1411113425798)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Listener$$anonfun$receive$3$$anonfun$2.class -> lastModified(1411113426034)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Listener$$anonfun$receive$3.class -> lastModified(1411113426001)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Listener.class -> lastModified(1411113425959)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Message$.class -> lastModified(1411113426076)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Message.class -> lastModified(1411113426122)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Result$.class -> lastModified(1411113426185)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Result.class -> lastModified(1411113426164)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$ResultDisplay$.class -> lastModified(1411113426305)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$ResultDisplay.class -> lastModified(1411113426271)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$ServerActor$$anonfun$receive$2.class -> lastModified(1411113426465)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$ServerActor.class -> lastModified(1411113426377)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Work$.class -> lastModified(1411113426539)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Work.class -> lastModified(1411113426515)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Worker$$anonfun$calculateBitCoinFor$1.class -> lastModified(1411113426629)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Worker$$anonfun$calculateBitCoinFor$2$$anonfun$4.class -> lastModified(1411113426695)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Worker$$anonfun$calculateBitCoinFor$2$$anonfun$apply$mcVI$sp$1.class -> lastModified(1411113426741)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Worker$$anonfun$calculateBitCoinFor$2.class -> lastModified(1411113426671)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Worker$$anonfun$receive$4.class -> lastModified(1411113426773)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1$Worker.class -> lastModified(1411113426613)
+C:\Users\User\Desktop\HelloLocal\target\scala-2.11\classes\local\project1.class -> lastModified(1411113424174)
+source stamps:
+1 items
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> hash(fa0c565bb3ef0837e2a00e70baf0893afe6e76ae)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_20\jre\lib\rt.jar -> lastModified(1408637623596)
+C:\Users\User\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar -> lastModified(1409900350000)
+C:\Users\User\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar -> lastModified(1406097530000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_20\jre\lib\rt.jar -> java.io.Serializable
+C:\Users\User\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar -> akka.actor.Actor
+C:\Users\User\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar -> scala.runtime.AbstractFunction1
+internal apis:
+1 items
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSIdu0j8FrMwCAAVJAAdhcGlIYXNoWgAIaGFzTWFjcm9MAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDtig9EAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AA54cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAObG9jYWwucHJvamVjdDF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+ACcBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AA5MAAlpbmhlcml0ZWRxAH4ADkwAB3BhcmVudHNxAH4ADnhxAH4ALnNxAH4AJwF1cQB+AAkAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AA9xAH4AGXVxAH4AGgAAAABzcQB+ABwAdAAEbWFpbnVxAH4AHwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABVMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgAtdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ALXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABV4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ASnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAVTAADdHBlcQB+ADZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+ACJ0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AD5bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AC1zcQB+AD10AAVBcnJheXEAfgBDdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AD10AAZTdHJpbmdzcQB+AEFzcQB+AER1cQB+AEcAAAADc3EAfgBJdAAEamF2YXNxAH4ASXQABGxhbmdxAH4ATnBzcQB+ACcBdXEAfgAJAAAAAHBzcQB+ACcBdXEAfgBiAAAAAnNxAH4APXQABk9iamVjdHEAfgBmc3EAfgA9dAADQW55cQB+AENwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABV4cHQABWxvY2Fsc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFIjOmj83VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AFUwAD3NvdXJjZURpcmVjdG9yeXEAfgAVeHB0ADpDOlxVc2Vyc1xVc2VyXERlc2t0b3BcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU+gxWW7PvCDfioA5wuvCJOv5udq4=
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\User\Desktop\HelloLocal\src\main\scala\local\project1.scala -> 
+AAAAAAAAAAA=
+compilations:
+15 items
+000 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIzP0px1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkM6XFVzZXJzXFVzZXJcRGVza3RvcFxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+001 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIxkiVx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkM6XFVzZXJzXFVzZXJcRGVza3RvcFxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+002 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIcNZ0h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXEM6XFVzZXJzXFVzZXJcRGVza3RvcFxBa2thUmVtb3RlQWN0b3JzSGVsbG9Xb3JsZC1tYXN0ZXJcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+003 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIymeVd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkM6XFVzZXJzXFVzZXJcRGVza3RvcFxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+004 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIxag+N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkM6XFVzZXJzXFVzZXJcRGVza3RvcFxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+005 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIyEDs11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkM6XFVzZXJzXFVzZXJcRGVza3RvcFxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+006 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIx6hg51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkM6XFVzZXJzXFVzZXJcRGVza3RvcFxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+007 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIcTcJd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXEM6XFVzZXJzXFVzZXJcRGVza3RvcFxBa2thUmVtb3RlQWN0b3JzSGVsbG9Xb3JsZC1tYXN0ZXJcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+008 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIwe/991cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkM6XFVzZXJzXFVzZXJcRGVza3RvcFxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+009 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIdeiRh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXEM6XFVzZXJzXFVzZXJcRGVza3RvcFxBa2thUmVtb3RlQWN0b3JzSGVsbG9Xb3JsZC1tYXN0ZXJcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+010 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIyJ4lV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkM6XFVzZXJzXFVzZXJcRGVza3RvcFxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+011 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIdsF891cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXEM6XFVzZXJzXFVzZXJcRGVza3RvcFxBa2thUmVtb3RlQWN0b3JzSGVsbG9Xb3JsZC1tYXN0ZXJcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+012 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIb3W6h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXEM6XFVzZXJzXFVzZXJcRGVza3RvcFxBa2thUmVtb3RlQWN0b3JzSGVsbG9Xb3JsZC1tYXN0ZXJcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+013 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIzW6KR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkM6XFVzZXJzXFVzZXJcRGVza3RvcFxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+014 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSIzpo/N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkM6XFVzZXJzXFVzZXJcRGVza3RvcFxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+compile setup:
+1 items
+1 -> 
+AAA6QzpcVXNlcnNcVXNlclxEZXNrdG9wXEhlbGxvTG9jYWxcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3NlcwAAAAAAAAAAAAYyLjExLjIAAAAA

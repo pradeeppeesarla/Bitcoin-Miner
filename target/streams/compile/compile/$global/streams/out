@@ -1,0 +1,41 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\Users\User\Desktop\AkkaRemoteActorsHelloWorld-master\HelloLocal\src\main\scala\local\Local.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\User\Desktop\AkkaRemoteActorsHelloWorld-master\HelloLocal\src\main\scala\local\Local.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\User\Desktop\AkkaRemoteActorsHelloWorld-master\HelloLocal\src\main\scala\local\Local.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\Users\User\Desktop\AkkaRemoteActorsHelloWorld-master\HelloLocal\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.1[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.10.1  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_ec610ee8[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_20\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_20\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_20\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_20\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_20\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_20\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_20\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_20\jre\classes;C:\Users\User\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.10.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\.sbt\boot\scala-2.10.4\org.scala-sbt\sbt\0.13.5\xsbti\interface-0.13.5.jar;C:\Users\User\.sbt\boot\scala-2.10.4\org.scala-sbt\sbt\0.13.5\compiler-interface-src\compiler-interface-src-0.13.5.jar;C:\Users\User\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.10.1.jar;C:\Users\User\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.10.1.jar;C:\Users\User\.ivy2\cache\org.scala-lang\jline\jars\jline-2.10.1.jar;C:\Users\User\.ivy2\cache\org.fusesource.jansi\jansi\jars\jansi-1.4.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\API.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\Command.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\Compat.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\Log.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\Message.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\AppData\Local\Temp\sbt_7e9c601a\xsbt\ScaladocInterface.scala[0m
+[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Error compiling sbt component 'compiler-interface'[0m
